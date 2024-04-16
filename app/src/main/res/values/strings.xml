@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ExerciceAndroid</string>
+    <string name="bienvenue">Bienvenue !</string>
+    <string name="nom_du_participant">Nom du participant</string>
+    <string name="profession_du_participant">Profession du participant</string>
+    <string name="soci_t_du_participant">Société du participant</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="nom">Nom</string>
+    <string name="profession">Profession</string>
+    <string name="soci_t">Société</string>
 </resources>
